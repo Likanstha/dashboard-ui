@@ -1,0 +1,14 @@
+{
+  "name": "dashboard",
+  "version": "1.0.1",
+  "description": "dashboard ui",
+  "main": "2",
+  "scripts": {
+    "test": "2"
+  },
+  "author": "likan",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
